@@ -1,5 +1,5 @@
 # AxolotlTeam-Emprendedor-futuro  
-![Abril Ramirez](./README/pictures/Axolotl-0-M.png)![Álvaro González](./README/pictures/Axolotl-1-M.png)![Jordi Espinoza](./README/pictures/Axolotl-1-M.png)![Luis Alvarado](./README/pictures/Axolotl-1-M.png)
+![Abril Ramirez](./README/pictures/Axolotl-0-M.png "Abril Ramirez")![Álvaro González](./README/pictures/Axolotl-1-M.png "Álvaro González")![Jordi Espinoza](./README/pictures/Axolotl-1-M.png "Jordi Espinoza")![Luis Alvarado](./README/pictures/Axolotl-1-M.png "Luis Alvarado")
 
 ## **Sobre el proyecto**
 Emprendedor futuro consiste en un [portal web](https://education.axolotlteam.com "Education AxolotlTeam") que permite conocer sobre el camino hacia el emprendimiento, va dirigido principalmente a alumnos y maestros de nivel superior, sin embargo, se busca tener un nivel que interacción sencilla que permita ser utilizado por el público en general.
