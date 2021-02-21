@@ -2,7 +2,7 @@
 ## **Sobre el proyecto**
 Emprendedor futuro consiste en un [portal web](https://education.axolotlteam.com "Education AxolotlTeam") que permite conocer sobre el camino hacia el emprendimiento, va dirigido principalmente a alumnos y maestros de nivel superior, sin embargo, se busca tener un nivel que interacción sencilla que permita ser utilizado por el público en general.
 
-![Vista principal del sitio web.](./Readme/pictures/pcview-4.png)
+![Vista principal del sitio web.](./README/pictures/pcview-4.png)
 
 Con nuestra herramienta se podrán conocer los siguientes aspectos:
 * Conocimiento general sobre las PyME en México.
@@ -13,10 +13,10 @@ Con nuestra herramienta se podrán conocer los siguientes aspectos:
 * Conceptos clave sobre emprendimiento.
 
 
-![Vista del protal desde un telefono.](./Readme/pictures/phoneview-0.jpg)
-![Vista del protal desde un telefono.](./Readme/pictures/phoneview-1.jpg)
+![Vista del protal desde un telefono.](./README/pictures/phoneview-0.jpg)
+![Vista del protal desde un telefono.](./README/pictures/phoneview-1.jpg)
 
-![Vista del protal desde un telefono.](./Readme/pictures/phoneview-3.jpg)
+![Vista del protal desde un telefono.](./README/pictures/phoneview-3.jpg)
 
 _*Algunos trámites puedes estar sujetos a diferentes aspectos individuales, dichos casos deberán revisarse en la dependencia correspondiente._
 
@@ -32,7 +32,7 @@ Los servicios y características que utilizamos son los siguientes:
 ## **Implementación**
 Para lograr tener una relación estrecha con los estudiantes, quienes son los futuros emprendedores, se busca llegar a los portales educativos. Gracias a esto, profesores de la institución podrán tomar como apoyo nuestra herramienta, en la cual se presentan las estancias a las que se podrían referir al momento de presentar una clase relacionada a requerimientos para formalizar el emprendimiento.
 
-![Vista del protal desde un telefono.](./Readme/pictures/pcview-0.png)
+![Vista del protal desde un telefono.](./README/pictures/pcview-0.png)
 
 ## **Escalabilidad**
 Nuestra herramienta, al igual que otras, comienza en un entorno local (Tijuana B.C. México), sin embargo, se pretende implementar nuestros beneficios al resto del país y del mundo. Se buscará incorporar nuestro asistente dentro de las áreas de trabajo que las escuelas estén utilizando, como pueden ser Microsoft Teams, Google Classroom, Zoom, entre otros.
