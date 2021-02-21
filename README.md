@@ -5,7 +5,7 @@
 ![Jordi Espinoza](./README/pictures/Axolotl-1-M.png "Jordi Espinoza") __Espinoza Jordi__
 ![Luis Alvarado](./README/pictures/Axolotl-1-M.png "Luis Alvarado") __Alvarado Luis__
 
-## **Sobre el proyecto**
+## **Sobre el [proyecto](https://github.com/users/Alvaroggm123/projects/4 "Tablero Kanban del proyecto.")**
 Emprendedor futuro consiste en un [portal web](http://education.axolotlteam.com "Education AxolotlTeam") que permite conocer sobre el camino hacia el emprendimiento, va dirigido principalmente a alumnos y maestros de nivel superior, sin embargo, se busca tener un nivel que interacción sencilla que permita ser utilizado por el público en general.
 
 ![Vista principal del sitio web.](./README/pictures/pcview-4.png "Vista principal del sitio web desde el ordenador.")
