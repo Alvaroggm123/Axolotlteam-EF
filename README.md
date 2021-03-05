@@ -44,5 +44,8 @@ Nuestra herramienta, al igual que otras, comienza en un entorno local (Tijuana B
 
 Respecto a los servicios que ofrecemos sobre emprender, solamente se trata del tema principal, ya que se podrán abordar soluciones para otros aspectos que también son importantes para los jóvenes, como pueden ser: mejorar la presentación de tu sitio web, reconocer lugares (a nivel mundial) para comprender una estructura de negocios internacional, entre otros.
 
+## **Licencias**
+Pendientes...
+
 
 ![Microsoft Learn](./README/pictures/Microsoft-Learn.jpg "Microsoft Learn")![Innovaccion Virtual](./README/pictures/innovacion-virtual.png "Innovaccion Virtual.")![Microsoft Azure](./README/pictures/Microsoft-Azure.png "Microsoft Azure")
